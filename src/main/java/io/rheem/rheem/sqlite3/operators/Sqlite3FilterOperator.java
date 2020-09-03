@@ -1,10 +1,10 @@
-package org.qcri.rheem.sqlite3.operators;
+package io.rheem.rheem.sqlite3.operators;
 
-import org.qcri.rheem.basic.data.Record;
-import org.qcri.rheem.basic.operators.FilterOperator;
-import org.qcri.rheem.core.function.PredicateDescriptor;
-import org.qcri.rheem.jdbc.operators.JdbcFilterOperator;
-import org.qcri.rheem.sqlite3.platform.Sqlite3Platform;
+import io.rheem.rheem.basic.data.Record;
+import io.rheem.rheem.basic.operators.FilterOperator;
+import io.rheem.rheem.core.function.PredicateDescriptor;
+import io.rheem.rheem.jdbc.operators.JdbcFilterOperator;
+import io.rheem.rheem.sqlite3.platform.Sqlite3Platform;
 
 /**
  * Implementation of the {@link FilterOperator} for the {@link Sqlite3Platform}.

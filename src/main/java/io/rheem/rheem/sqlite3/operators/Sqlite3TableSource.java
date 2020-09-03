@@ -1,9 +1,9 @@
-package org.qcri.rheem.sqlite3.operators;
+package io.rheem.rheem.sqlite3.operators;
 
-import org.qcri.rheem.basic.operators.TableSource;
-import org.qcri.rheem.core.platform.ChannelDescriptor;
-import org.qcri.rheem.jdbc.operators.JdbcTableSource;
-import org.qcri.rheem.sqlite3.platform.Sqlite3Platform;
+import io.rheem.rheem.basic.operators.TableSource;
+import io.rheem.rheem.core.platform.ChannelDescriptor;
+import io.rheem.rheem.jdbc.operators.JdbcTableSource;
+import io.rheem.rheem.sqlite3.platform.Sqlite3Platform;
 
 import java.util.List;
 

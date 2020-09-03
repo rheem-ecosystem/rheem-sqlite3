@@ -1,13 +1,13 @@
-package org.qcri.rheem.sqlite3.plugin;
+package io.rheem.rheem.sqlite3.plugin;
 
-import org.qcri.rheem.core.api.Configuration;
-import org.qcri.rheem.core.mapping.Mapping;
-import org.qcri.rheem.core.optimizer.channels.ChannelConversion;
-import org.qcri.rheem.core.platform.Platform;
-import org.qcri.rheem.core.plugin.Plugin;
-import org.qcri.rheem.java.platform.JavaPlatform;
-import org.qcri.rheem.sqlite3.channels.ChannelConversions;
-import org.qcri.rheem.sqlite3.platform.Sqlite3Platform;
+import io.rheem.rheem.core.api.Configuration;
+import io.rheem.rheem.core.mapping.Mapping;
+import io.rheem.rheem.core.optimizer.channels.ChannelConversion;
+import io.rheem.rheem.core.platform.Platform;
+import io.rheem.rheem.core.plugin.Plugin;
+import io.rheem.rheem.java.platform.JavaPlatform;
+import io.rheem.rheem.sqlite3.channels.ChannelConversions;
+import io.rheem.rheem.sqlite3.platform.Sqlite3Platform;
 
 import java.util.Arrays;
 import java.util.Collection;

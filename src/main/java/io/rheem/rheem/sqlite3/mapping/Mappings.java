@@ -1,6 +1,6 @@
-package org.qcri.rheem.sqlite3.mapping;
+package io.rheem.rheem.sqlite3.mapping;
 
-import org.qcri.rheem.core.mapping.Mapping;
+import io.rheem.rheem.core.mapping.Mapping;
 
 import java.util.Arrays;
 import java.util.Collection;

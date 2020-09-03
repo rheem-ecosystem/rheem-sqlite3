@@ -1,10 +1,10 @@
-package org.qcri.rheem.sqlite3.channels;
+package io.rheem.rheem.sqlite3.channels;
 
-import org.qcri.rheem.core.optimizer.channels.ChannelConversion;
-import org.qcri.rheem.core.optimizer.channels.DefaultChannelConversion;
-import org.qcri.rheem.java.channels.StreamChannel;
-import org.qcri.rheem.jdbc.operators.SqlToStreamOperator;
-import org.qcri.rheem.sqlite3.platform.Sqlite3Platform;
+import io.rheem.rheem.core.optimizer.channels.ChannelConversion;
+import io.rheem.rheem.core.optimizer.channels.DefaultChannelConversion;
+import io.rheem.rheem.java.channels.StreamChannel;
+import io.rheem.rheem.jdbc.operators.SqlToStreamOperator;
+import io.rheem.rheem.sqlite3.platform.Sqlite3Platform;
 
 import java.util.Collection;
 import java.util.Collections;

@@ -1,8 +1,8 @@
-package org.qcri.rheem.sqlite3;
+package io.rheem.rheem.sqlite3;
 
-import org.qcri.rheem.sqlite3.platform.Sqlite3Platform;
-import org.qcri.rheem.sqlite3.plugin.Sqlite3ConversionPlugin;
-import org.qcri.rheem.sqlite3.plugin.Sqlite3Plugin;
+import io.rheem.rheem.sqlite3.platform.Sqlite3Platform;
+import io.rheem.rheem.sqlite3.plugin.Sqlite3ConversionPlugin;
+import io.rheem.rheem.sqlite3.plugin.Sqlite3Plugin;
 
 /**
  * Register for relevant components of this module.

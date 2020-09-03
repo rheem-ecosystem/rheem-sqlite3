@@ -1,14 +1,14 @@
-package org.qcri.rheem.sqlite3.mapping;
+package io.rheem.rheem.sqlite3.mapping;
 
-import org.qcri.rheem.basic.data.Record;
-import org.qcri.rheem.basic.operators.FilterOperator;
-import org.qcri.rheem.core.mapping.Mapping;
-import org.qcri.rheem.core.mapping.OperatorPattern;
-import org.qcri.rheem.core.mapping.PlanTransformation;
-import org.qcri.rheem.core.mapping.ReplacementSubplanFactory;
-import org.qcri.rheem.core.mapping.SubplanPattern;
-import org.qcri.rheem.sqlite3.operators.Sqlite3FilterOperator;
-import org.qcri.rheem.sqlite3.platform.Sqlite3Platform;
+import io.rheem.rheem.basic.data.Record;
+import io.rheem.rheem.basic.operators.FilterOperator;
+import io.rheem.rheem.core.mapping.Mapping;
+import io.rheem.rheem.core.mapping.OperatorPattern;
+import io.rheem.rheem.core.mapping.PlanTransformation;
+import io.rheem.rheem.core.mapping.ReplacementSubplanFactory;
+import io.rheem.rheem.core.mapping.SubplanPattern;
+import io.rheem.rheem.sqlite3.operators.Sqlite3FilterOperator;
+import io.rheem.rheem.sqlite3.platform.Sqlite3Platform;
 
 import java.util.Collection;
 import java.util.Collections;

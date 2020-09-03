@@ -1,10 +1,10 @@
-package org.qcri.rheem.sqlite3.operators;
+package io.rheem.rheem.sqlite3.operators;
 
-import org.qcri.rheem.basic.data.Record;
-import org.qcri.rheem.basic.function.ProjectionDescriptor;
-import org.qcri.rheem.basic.operators.MapOperator;
-import org.qcri.rheem.jdbc.operators.JdbcProjectionOperator;
-import org.qcri.rheem.sqlite3.platform.Sqlite3Platform;
+import io.rheem.rheem.basic.data.Record;
+import io.rheem.rheem.basic.function.ProjectionDescriptor;
+import io.rheem.rheem.basic.operators.MapOperator;
+import io.rheem.rheem.jdbc.operators.JdbcProjectionOperator;
+import io.rheem.rheem.sqlite3.platform.Sqlite3Platform;
 
 /**
  * Implementation of the {@link JdbcProjectionOperator} for the {@link Sqlite3Platform}.
