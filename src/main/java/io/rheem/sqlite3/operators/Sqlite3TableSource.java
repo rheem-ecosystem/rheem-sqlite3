@@ -1,9 +1,9 @@
-package io.rheem.rheem.sqlite3.operators;
+package io.rheem.sqlite3.operators;
 
-import io.rheem.rheem.basic.operators.TableSource;
-import io.rheem.rheem.core.platform.ChannelDescriptor;
-import io.rheem.rheem.jdbc.operators.JdbcTableSource;
-import io.rheem.rheem.sqlite3.platform.Sqlite3Platform;
+import io.rheem.basic.operators.TableSource;
+import io.rheem.core.platform.ChannelDescriptor;
+import io.rheem.jdbc.operators.JdbcTableSource;
+import io.rheem.sqlite3.platform.Sqlite3Platform;
 
 import java.util.List;
 

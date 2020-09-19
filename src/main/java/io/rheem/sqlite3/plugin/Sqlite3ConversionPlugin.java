@@ -1,13 +1,13 @@
-package io.rheem.rheem.sqlite3.plugin;
+package io.rheem.sqlite3.plugin;
 
-import io.rheem.rheem.core.api.Configuration;
-import io.rheem.rheem.core.mapping.Mapping;
-import io.rheem.rheem.core.optimizer.channels.ChannelConversion;
-import io.rheem.rheem.core.platform.Platform;
-import io.rheem.rheem.core.plugin.Plugin;
-import io.rheem.rheem.java.platform.JavaPlatform;
-import io.rheem.rheem.sqlite3.channels.ChannelConversions;
-import io.rheem.rheem.sqlite3.platform.Sqlite3Platform;
+import io.rheem.core.api.Configuration;
+import io.rheem.core.mapping.Mapping;
+import io.rheem.core.optimizer.channels.ChannelConversion;
+import io.rheem.core.platform.Platform;
+import io.rheem.core.plugin.Plugin;
+import io.rheem.java.platform.JavaPlatform;
+import io.rheem.sqlite3.channels.ChannelConversions;
+import io.rheem.sqlite3.platform.Sqlite3Platform;
 
 import java.util.Arrays;
 import java.util.Collection;

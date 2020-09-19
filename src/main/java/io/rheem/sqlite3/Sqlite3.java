@@ -1,8 +1,8 @@
-package io.rheem.rheem.sqlite3;
+package io.rheem.sqlite3;
 
-import io.rheem.rheem.sqlite3.platform.Sqlite3Platform;
-import io.rheem.rheem.sqlite3.plugin.Sqlite3ConversionPlugin;
-import io.rheem.rheem.sqlite3.plugin.Sqlite3Plugin;
+import io.rheem.sqlite3.platform.Sqlite3Platform;
+import io.rheem.sqlite3.plugin.Sqlite3ConversionPlugin;
+import io.rheem.sqlite3.plugin.Sqlite3Plugin;
 
 /**
  * Register for relevant components of this module.

@@ -1,7 +1,7 @@
-package io.rheem.rheem.sqlite3.platform;
+package io.rheem.sqlite3.platform;
 
-import io.rheem.rheem.core.platform.Platform;
-import io.rheem.rheem.jdbc.platform.JdbcPlatformTemplate;
+import io.rheem.core.platform.Platform;
+import io.rheem.jdbc.platform.JdbcPlatformTemplate;
 
 /**
  * {@link Platform} implementation for SQLite3.

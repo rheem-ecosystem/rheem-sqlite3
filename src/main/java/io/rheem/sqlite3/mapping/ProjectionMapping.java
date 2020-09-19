@@ -1,15 +1,15 @@
-package io.rheem.rheem.sqlite3.mapping;
+package io.rheem.sqlite3.mapping;
 
-import io.rheem.rheem.basic.data.Record;
-import io.rheem.rheem.basic.function.ProjectionDescriptor;
-import io.rheem.rheem.basic.operators.MapOperator;
-import io.rheem.rheem.core.mapping.Mapping;
-import io.rheem.rheem.core.mapping.OperatorPattern;
-import io.rheem.rheem.core.mapping.PlanTransformation;
-import io.rheem.rheem.core.mapping.ReplacementSubplanFactory;
-import io.rheem.rheem.core.mapping.SubplanPattern;
-import io.rheem.rheem.sqlite3.operators.Sqlite3ProjectionOperator;
-import io.rheem.rheem.sqlite3.platform.Sqlite3Platform;
+import io.rheem.basic.data.Record;
+import io.rheem.basic.function.ProjectionDescriptor;
+import io.rheem.basic.operators.MapOperator;
+import io.rheem.core.mapping.Mapping;
+import io.rheem.core.mapping.OperatorPattern;
+import io.rheem.core.mapping.PlanTransformation;
+import io.rheem.core.mapping.ReplacementSubplanFactory;
+import io.rheem.core.mapping.SubplanPattern;
+import io.rheem.sqlite3.operators.Sqlite3ProjectionOperator;
+import io.rheem.sqlite3.platform.Sqlite3Platform;
 
 import java.util.Collection;
 import java.util.Collections;

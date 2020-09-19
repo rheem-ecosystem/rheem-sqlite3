@@ -1,10 +1,10 @@
-package io.rheem.rheem.sqlite3.operators;
+package io.rheem.sqlite3.operators;
 
-import io.rheem.rheem.basic.data.Record;
-import io.rheem.rheem.basic.function.ProjectionDescriptor;
-import io.rheem.rheem.basic.operators.MapOperator;
-import io.rheem.rheem.jdbc.operators.JdbcProjectionOperator;
-import io.rheem.rheem.sqlite3.platform.Sqlite3Platform;
+import io.rheem.basic.data.Record;
+import io.rheem.basic.function.ProjectionDescriptor;
+import io.rheem.basic.operators.MapOperator;
+import io.rheem.jdbc.operators.JdbcProjectionOperator;
+import io.rheem.sqlite3.platform.Sqlite3Platform;
 
 /**
  * Implementation of the {@link JdbcProjectionOperator} for the {@link Sqlite3Platform}.
