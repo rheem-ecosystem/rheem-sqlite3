@@ -1,7 +1,7 @@
-# Rheem Platform "Java Stream"
+# Rheem Platform "SQLite3"
 
-`rheem-java` is the repository, here you can found the implementation of the operators which allow the execution of 
-platform "Java Stream"
+`rheem-sqlite3` is the repository, here you can found the implementation of the operators which allow the execution of 
+platform "SQLite3"
 
 ## How to compile
 
